@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FelixS96 and my name is Felix Schilli
 - 👀 I’m interested in C#, Unity and challenges
-- 🌱 I’m currently learning Unreal
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me felix.s96ss@gmail.com
 
